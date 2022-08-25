@@ -1,0 +1,3 @@
+const REACT_APP_UNSPLASH_KEY = "4ddc64c369e800157d688eb222ce91af";
+
+export default REACT_APP_UNSPLASH_KEY ;
